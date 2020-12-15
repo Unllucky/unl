@@ -1,7 +1,0 @@
-C:\Users\Nikita\source\repos\Labaa5\Labaa5\bin\Debug\Labaa5.exe.config
-C:\Users\Nikita\source\repos\Labaa5\Labaa5\bin\Debug\Labaa5.exe
-C:\Users\Nikita\source\repos\Labaa5\Labaa5\bin\Debug\Labaa5.pdb
-C:\Users\Nikita\source\repos\Labaa5\Labaa5\obj\Debug\Labaa5.csprojAssemblyReference.cache
-C:\Users\Nikita\source\repos\Labaa5\Labaa5\obj\Debug\Labaa5.csproj.CoreCompileInputs.cache
-C:\Users\Nikita\source\repos\Labaa5\Labaa5\obj\Debug\Labaa5.exe
-C:\Users\Nikita\source\repos\Labaa5\Labaa5\obj\Debug\Labaa5.pdb
